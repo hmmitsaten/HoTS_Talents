@@ -10,7 +10,7 @@ def main():
 
     def fetch_talent_html():
         # make a request to the target website
-        r = requests.get("https://www.icy-veins.com/heroes/" + heroname.lower() + "-talents")
+        r = requests.get("https://www.icy-veins.com/heroes/" + (heroname.lower().strip()).replace(" ", "-") + "-talents")
         if r.status_code == 200:
             # if the request is successful return the HTML content
             return r.text
