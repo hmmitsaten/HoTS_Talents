@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """This file contains the entire program for getting talents for HoTS."""
 from bs4 import BeautifulSoup
 import requests
