@@ -124,7 +124,7 @@ def get_stock_level(book):
 
 ## Built With
 
-* [Python][https://www.python.org/downloads/] - Programming language used
+* [Python](https://www.python.org/downloads/) - Programming language used
 * [PyInstaller](https://pyinstaller.org/) - The web framework used
 * [bs4](https://pypi.org/project/beautifulsoup4/) - Dependency Management
 * [requests](https://docs.python-requests.org/) - Assists in requesting http
@@ -144,8 +144,6 @@ Change log is included.
 * **Alan Mispagel** - *Creator and initial prototype - [Hmmitsaten](https://github.com/hmmitsaten)
 * **Hedgehog** - *Dataset retrieval assistance
 * **PurpleBooth** - *Readme template
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
