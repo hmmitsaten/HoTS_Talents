@@ -21,6 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 3. pip install bs4
 4. pip install requests
 5. Navigate to the folder containing the .py file
+6. Run the python file for testing
   A. Open a command prompt at said folder
   B. Type the name of the python file, including extension, and hit enter to run it. It should request the hero name.
 ```
