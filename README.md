@@ -6,6 +6,7 @@ Upon launch, the user is introduced to a DOS window.
 The program will ask the user to enter a hero name. For example, it will say "Enter hero name: " upon launch.
 When entered, a list of recommended hero talents are printed in plain text with only the necessary information shown. 
 This program helps focus to go more towards gameplay and reaction times, and less on the selection of talents.
+Psst.. Refer to the screenshot in this folder to see what this program looks like.
 
 ## Getting Started
 
