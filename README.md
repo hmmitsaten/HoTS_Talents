@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
   B. Click the Download "Python XX.XX.X" button
   C. Follow the prompts of the installer
   D. On Windows, install the system variable 
-2. Open command
+2. Open command prompt
 3. pip install bs4
 4. pip install requests
 5. Navigate to the folder containing the .py file
@@ -124,7 +124,7 @@ def get_stock_level(book):
 
 ## Built With
 
-* [Python](https://www.python.org/downloads/) - Programming language used
+* [Python][https://www.python.org/downloads/] - Programming language used
 * [PyInstaller](https://pyinstaller.org/) - The web framework used
 * [bs4](https://pypi.org/project/beautifulsoup4/) - Dependency Management
 * [requests](https://docs.python-requests.org/) - Assists in requesting http
