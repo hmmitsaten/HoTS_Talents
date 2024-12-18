@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
   B. Click the Download "Python XX.XX.X" button
   C. Follow the prompts of the installer
   D. On Windows, install the system variable 
-2. Open command prompt
+2. Open command prompt and enter the commands in steps 3 and 4
 3. pip install bs4
 4. pip install requests
 5. Navigate to the folder containing the .py file
