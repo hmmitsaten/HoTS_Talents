@@ -152,6 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+*Icyveins makers who are gracious enough to advise which talents to choose.
 *The Degenerates were a huge inspiration. I would have never come up with the idea or need had it not been for them. They helped immensely with gameplay and will continue to be an inspiration for future ventures. They are the true heroes.
 *My university helped make me the man I am today. They unlocked the nerdy side of me and helped me continue to learn while also learning how to learn.
 *My family gave me numerous words of encouragement towards computer work which made me always feel like I was on the right track.
